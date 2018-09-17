@@ -1,10 +1,38 @@
 html {
-    
-    color: powderblue;
-    
-    
+    color: fuchsia;
 }
+
+body {
+    color: blue;
+    background-color:floralwhite;
+}
+
+
+h1 {color: purple;
+    background-color: cornsilk;
+    font-family: 'arial';
+    font-weight: 200;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
 p {
-    
-    color:deeppink;
+    color: deeppink;
+    background-color: peachpuff;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+a {
+    color: mediumturquoise;
+    font-family:sans-serif;
+    font-weight: 100;
 }
